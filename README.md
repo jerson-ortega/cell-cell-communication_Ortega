@@ -22,7 +22,13 @@
 ## Receptor and Receiver Cell with Supporting Evidence
 * **Receptor:** IFNGR1 (Interferon gamma receptor 1) / IFNGR2 complex
 * **Receiver Cell:** Macrophage
-* **Supporting Evidence:** Human Protein Atlas and OmniPath annotations confirm that IFNGR1 acts as a transmembrane cell-surface receptor belonging to the interferon receptor family, expressed by cells like macrophages to receive extracellular cytokine signals.
+* **Supporting Evidence:**
+
+   <img width="1080" height="1696" alt="34433" src="https://github.com/user-attachments/assets/a9835185-5c81-468d-8bff-aac4519a17d4" />
+
+ <img width="1080" height="1006" alt="34465" src="https://github.com/user-attachments/assets/047d80b4-e3c7-4385-a976-476020eed26e" />
+
+Human Protein Atlas and OmniPath annotations confirm that IFNGR1 acts as a transmembrane cell-surface receptor belonging to the interferon receptor family, expressed by cells like macrophages to receive extracellular cytokine signals.
 
 ## OmniPath Findings
 * OmniPath intercell and annotation data classify IFNGR1 as a transmembrane receptor and cell surface marker. 
