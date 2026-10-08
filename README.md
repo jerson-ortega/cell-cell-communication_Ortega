@@ -54,5 +54,5 @@ Human Protein Atlas and OmniPath annotations confirm that IFNGR1 acts as a trans
 * OmniPath Explorer: https://explore.omnipathdb.org/
 * STRING Database: https://string-db.org/
 * IntAct Molecular Interaction Database: https://www.ebi.ac.uk/intact/
-* UniProt: https://www.uniprot.org/
-  
+* UniProt: https://www.uniprot.org/uniprotkb/P01579/entry
+           https://www.uniprot.org/uniprotkb/P15260/entry
