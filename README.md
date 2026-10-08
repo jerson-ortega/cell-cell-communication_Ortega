@@ -32,7 +32,7 @@
 * **Interacting Pair:** IFNG (UniProt ID: P01579) and IFNGR1 (UniProt ID: P15260)
 * **Experimental Evidence:** IntAct curated records confirm physical association and direct protein-protein interactions validated through experimental methods such as x-ray diffraction, solid phase assays, and co-immunoprecipitation.
 
-## Final Model and 150-250 Word Interpretation
+## Final Model and Interpretation
 > In this cell-to-cell communication model, the CD8+ cytotoxic T cell acts as the sender cell, synthesizing and secreting the cytokine interferon-gamma (IFNG) during an active immune response. IFNG travels via paracrine signaling through the extracellular space to bind to the IFNGR1/IFNGR2 receptor complex expressed on the surface of a receiver cell, such as a macrophage. Database annotations from OmniPath confirm the ligand-receptor pairing, while Human Protein Atlas data support expression profiles in these respective cell types. Upon ligand binding, receptor oligomerization triggers downstream intracellular signaling mediated by Janus kinases (JAK1 and JAK2) and signal transducer and activator of transcription 1 (STAT1), as mapped in the STRING functional network. Experimental evidence from IntAct validates the physical binding and interaction mechanics between these pathway proteins. Ultimately, nuclear translocation of phosphorylated STAT1 drives the transcription of interferon-stimulated genes, resulting in enhanced antigen presentation, antimicrobial defense, and heightened cellular activation in the receiver cell. This integrated multi-database approach bridges extracellular recognition with intracellular transcriptional responses.
 
 ## References and Database Links
