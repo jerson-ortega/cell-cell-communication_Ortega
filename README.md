@@ -1,4 +1,10 @@
-# Cell-to-Cell Communication: CD8+ Cytotoxic T Cell Signaling Pathway
+# Cell-to-Cell Communication Laboratory Activity
+
+* **Student Name:** Jerson Lloyd T. Ortega
+* **Activity:** Cell-to-Cell Communication Pathway Analysis (CD8+ Cytotoxic T Cell to Macrophage via IFNG)
+
+
+ # Cell-to-Cell Communication: CD8+ Cytotoxic T Cell Signaling Pathway
 
 ## Title and Biological Question
 * **Title:** Investigating Intercellular Signaling from CD8+ Cytotoxic T Cells to Macrophages via IFNG Signaling
